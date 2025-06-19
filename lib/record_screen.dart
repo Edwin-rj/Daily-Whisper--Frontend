@@ -36,7 +36,7 @@ class VoiceRecorder {
     await storageRef.putFile(file);
     final url = await storageRef.getDownloadURL();
 
-    final uri = Uri.parse('https://your-backend-url.onrender.com/api/process-audio'); // Replace with your real backend
+    final uri = Uri.parse('https://daily-whispers-bknd.onrender.com/api/process-audio'); // Replace with your real backend
     final response = await http.post(
       uri,
       headers: { 'Content-Type': 'application/json' },
