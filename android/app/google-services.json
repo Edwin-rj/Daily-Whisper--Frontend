@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666706597622",
+    "project_id": "voicejournalapp2025",
+    "storage_bucket": "voicejournalapp2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666706597622:android:d829652208656bc523fed7",
+        "android_client_info": {
+          "package_name": "com.example.voiceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdf9FjoF4VpCiovEHl2YZLF04XNGQ80jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
